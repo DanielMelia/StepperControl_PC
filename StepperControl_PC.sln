@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepperControl_PC", "StepperControl_PC\StepperControl_PC.csproj", "{BCE67395-102E-40A8-984A-94A185839126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE67395-102E-40A8-984A-94A185839126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE67395-102E-40A8-984A-94A185839126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE67395-102E-40A8-984A-94A185839126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE67395-102E-40A8-984A-94A185839126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B83D5183-FE84-4975-9FCD-4D625E63A322}
+	EndGlobalSection
+EndGlobal
